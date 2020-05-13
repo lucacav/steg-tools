@@ -13,7 +13,11 @@ Strings can be used to find printable strings (i.e., ASCII strings) in binary an
 
 * [zsteg](https://github.com/zed-0xff/zsteg) can be used to detect data within PNG and BMP images, which can be embedded by using steganography. It can be installed via `gem install zsteg` and provides different extraction methods. With the flag `-a`, it can be used to search an image for hidden content by using all the known methods, or it can be tweaked to search for specific combinations of R, G, B, A channels.
 
+
+* [Steghide](http://steghide.sourceforge.net) is a tool for hiding data in different media files (i.e., audio and image). Embedded data can be compressed, encrypted and protected with a checksum to verify the integrity of the message. 
+
 * zbarimg is part of the [ZBar](http://zbar.sourceforge.net) suite of tools for scanning and reading barcodes and QRcodes for different sources (e.g., videos and images). It also offers a Python API, which allows to easily integrate the scanning functionalities in scripts to automate the analysis process. 
+
 
 # Further Reading
 
