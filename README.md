@@ -16,7 +16,8 @@ Strings can be used to find printable strings (i.e., ASCII strings) in binary an
 * [Steghide](http://steghide.sourceforge.net) is a tool for hiding data in different media files (i.e., audio and image). Embedded data can be compressed, encrypted and protected with a checksum to verify the integrity of the message. 
 
 * zbarimg is part of the [ZBar](http://zbar.sourceforge.net) suite of tools for scanning and reading barcodes and QRcodes for different sources (e.g., videos and images). It also offers a Python API, which allows to easily integrate the scanning functionalities in scripts to automate the analysis process. 
-
+ 
+* [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec) allows you to hide a password encrypted message within the images & photos using AES encryption algorithm with a 256-bit PBKDF2 derived key.
 
 # Further Reading
 
