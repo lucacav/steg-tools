@@ -24,6 +24,8 @@ Strings can be used to find printable strings (i.e., ASCII strings) in binary an
 
 * J.-F. Lalande, S. Wendzel, "[Hiding Privacy Leaks in Android Applications Using Low-Attention Raising Covert Channels](http://dx.doi.org/10.1109/ARES.2013.92)", in Proc. of the First International Workshop on Emerging Cyberthreats and Countermeasures, 2013, pp. 701–710. This paper presents an overview of the *Colluding Applications Threat*. Videos of a prototypal attack using such technique are available [here](https://www.dailymotion.com/video/x10lcyq) and [here](https://www.dailymotion.com/video/x10lbre).
 
+<!---
 * [SteganoCC](http://steganocc.gforge.inria.fr) is a set of covert channels (i.e., hidden communication paths implemented by using information hiding) acting between two Android processes. This technique is at the basis of the *Colluding Applications Threat*, which can be used to exfiltrate data between two isolated processes. 
+--->
 
 * [Network Information Hiding 101](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course) is an online course prepared by Steffen Wendzel discussing terminology, methodology and practical aspects of *Network Steganography* and *Network Covert Channels*. 
