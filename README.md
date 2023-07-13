@@ -18,7 +18,7 @@ Strings can be used to find printable strings (i.e., ASCII strings) in binary an
 * zbarimg is part of the [ZBar](http://zbar.sourceforge.net) suite of tools for scanning and reading barcodes and QRcodes for different sources (e.g., videos and images). It also offers a Python API, which allows to easily integrate the scanning functionalities in scripts to automate the analysis process. 
 
 
-# Further Reading
+# Further Reading / Experimenting
 
 * [steg-in-the-wild](https://github.com/lucacav/steg-in-the-wild) a list of real-world attacks leveraging some form of steganography or information hiding.
 
@@ -28,4 +28,6 @@ Strings can be used to find printable strings (i.e., ASCII strings) in binary an
 * [SteganoCC](http://steganocc.gforge.inria.fr) is a set of covert channels (i.e., hidden communication paths implemented by using information hiding) acting between two Android processes. This technique is at the basis of the *Colluding Applications Threat*, which can be used to exfiltrate data between two isolated processes. 
 --->
 
-* [Network Information Hiding 101](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course) is an online course prepared by Steffen Wendzel discussing terminology, methodology and practical aspects of *Network Steganography* and *Network Covert Channels*. 
+* [Network Information Hiding 101](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course) is an online course prepared by Steffen Wendzel discussing terminology, methodology and practical aspects of *Network Steganography* and *Network Covert Channels*.
+
+* [pcapStego](https://github.com/Ocram95/pcap_injector): is a tool for creating network covert channels directly in a .pcap file. The modified .pcap can be then used for simulations, to populate datasets or lively replayed via tools like Tcpreplay. 
